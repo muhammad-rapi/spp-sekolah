@@ -1,7 +1,7 @@
 <?php
 
 
-$conn = mysqli_connect("localhost", "root", "", "spp-sekolah");
+$conn = mysqli_connect("localhost", "root", "", "spp");
 
 // function registrasi
 function registrasi($data)
